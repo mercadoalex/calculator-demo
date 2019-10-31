@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+Azure Pipelines is a fully featured continuous integration (CI) and continuous delivery (CD) service. It works with your preferred Git provider and can deploy to most major cloud services, which include Azure services. 
+
