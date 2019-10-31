@@ -2,7 +2,6 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-
 [![Build Status](https://dev.azure.com/cursodevops0042/cursodevops/_apis/build/status/mercadoalex.calculator-demo?branchName=master)](https://dev.azure.com/cursodevops0042/cursodevops/_build/latest?definitionId=1&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
